@@ -1,4 +1,4 @@
-#Proyecto Final Invernadero
+#Proyecto Final Control Invernadero
 # author: Casasola Hernandez Paulina
 #         Barrera Rangel Guillermo
 #         Bonilla Martinez Guadalupe Wendy
